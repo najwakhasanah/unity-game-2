@@ -1,0 +1,7506 @@
+fileFormatVersion: 2
+guid: 3cbefad4c34499442aed5f5a3bbdb50f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bbe33d1fa31534d9993b1ef0d5ff3b
+      internalID: 1178212309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a674c5571ad764449124d24206db582
+      internalID: 1469823798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8443f9d3775b54b9ab4d324bff04fe
+      internalID: -628835047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683520ada6c9e7b43ad95d746e7abac9
+      internalID: 293195757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66cde630f48ff74aa6566a4617edd5a
+      internalID: -1291517709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b18a54f00cecfc40a9b1af8f0b1a086
+      internalID: -1673398270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1d551d6b883041abe4ea44425396d
+      internalID: 1780137925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c5c05a8d59c442a23a7b633e2465d
+      internalID: 1876229285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316fd5a2cafb35d4e829e2528992445a
+      internalID: -1783045435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f116350a6c5e541ba0125569c614c4
+      internalID: -932511684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0359437083ab0ad438b53e3a3db76952
+      internalID: 2033739388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ebc83b01558e2409615bc4585f6e4a
+      internalID: 156449049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a07e6c2fb8fb22448c337fe8e046b19
+      internalID: -856662056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28177e00487d942ac846bd294d5a6b
+      internalID: -1195803957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1881d33b52731945b470c893ebb5e9f
+      internalID: -1186150546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 369
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2453a760281ee24f987a6f209b68d25
+      internalID: -1826978244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8b3ffce13e812419bf49985699b296
+      internalID: -1259687647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d209d8f2504eb0449e737d7ab25ce68
+      internalID: -1101084378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d186425449a7e44ebcb8eea0dcec0e0
+      internalID: 1853920226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaeb1db36b8293d46a059c16b64f7ae1
+      internalID: 373727057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffced66f572529447b7797709c357f40
+      internalID: 602872044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b0535da8859f42b34b92a2f4005e8
+      internalID: 1996200394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e776252d99167f4eb0f7286eea35707
+      internalID: 1494066683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d1afe9672e6d54da4f40703aa6ce0d
+      internalID: 1397296135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ba1ed20b041c340b5495927c9c45e7
+      internalID: -6262254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341ca2fe52251b94ca597b6715eca100
+      internalID: 1515452335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626dafe8b577df64082a63224af6645b
+      internalID: -626917543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa050085e50a87479411a9019e9d737
+      internalID: -1711114345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa07180dc37084fb80ac9352b7075e
+      internalID: 2019636487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0b895d795e209409b7b0bc7e6faed2
+      internalID: -278939398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a88f535434bf3a44bddeb6e2f9b1b50
+      internalID: -1463142701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab8a4c00633182418987f52e907e1ca
+      internalID: 719804331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8d05b91fef25b49b1da0f36909a5bb
+      internalID: 676751152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c93547fcb67804f8c5ed0f576718ec
+      internalID: -670492541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bacf4fe62ffa214286ecfb25197199c
+      internalID: 747171098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0990fff3bc88b64987f2a1a723db04a
+      internalID: 2119797391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b86284484894514697ee56d82e06f2d
+      internalID: 415132256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e42e6307a8dfe4b8f57b00ecc82b0d
+      internalID: -854369865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001dafcd5bec9944bacfaf84f93add9b
+      internalID: 1596923085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddcb6c50c7511b4eb7162af11467995
+      internalID: 1047984586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41aa910e32dcfcf41932d4d1ec49379f
+      internalID: -2120663764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_41
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b616daf544a6ca747a72f387ce12a5a9
+      internalID: 2026373380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_42
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e303529945f0244adfbe659d1104bc
+      internalID: -1936566785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf1e7e286a713940a3bedcb388b37e0
+      internalID: 358429591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d31973750ff78349b2c09aeb1fc7829
+      internalID: 49708155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 337
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c56b1a29a35fd4cb34cb8193706f08
+      internalID: 838057823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb09876b364dfe347b572a08b2c7bacf
+      internalID: 843359637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_47
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035b571b8b33eb4d883b1fa0a05aa14
+      internalID: 1116662332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c86a518452c6124e80d810c6362261a
+      internalID: -499025554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb64e19c470fa0429cc5791405dc611
+      internalID: 1344988250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2695f5820484bf444bf833c79225d89c
+      internalID: -1806274521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e2449f2861a94448411f715a6741b8
+      internalID: -1457635759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc875902eaa0c9f42b54767657312f63
+      internalID: -945177690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_53
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dda7163f700c68448a9c211978f88e9
+      internalID: 429402822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8736a7cd0eef3489b0abd23ab81ffa
+      internalID: 678485391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_55
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0c303310d1e6647b51de7dc8a434af
+      internalID: 772485470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff52211af7d7a7145b09111d8ac6c4f7
+      internalID: 886857277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_57
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ddde90fac8a044ab4ba64a81f1a73
+      internalID: -1903602423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71287ecdde54814385c9c9d04082fbf
+      internalID: 1247157126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_59
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 321
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f245d538be0e86438c251f50ab476ac
+      internalID: 1377192722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0844c25c0e0184f830cd8b2824779d
+      internalID: -1286022328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4ab60930e45ff43a5ed2fbff2dae43
+      internalID: 664260483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb4a3b9f05d7a1459e80e37cb644761
+      internalID: 1190169296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74c6247643e0c14c86322ab025841dd
+      internalID: -2073092555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a4efcf4694a8a4e9af74b550f5f434
+      internalID: -43897245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab36a0541e07a16499f7188a9dcba8a8
+      internalID: -321971377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fae0701b972d74095b3533e01867ca
+      internalID: 439987176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a31c8f586a2a4493b869b3891c817
+      internalID: -1081067385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29ee2d696eae6c48b20e2cc49be0b8c
+      internalID: -2118345057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c46ac55e62476e488938e2d384c6705
+      internalID: 1699295813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff5b976cc0b6c7478b8b727f2ad7e78
+      internalID: 1843030953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d7e7716ec477b4f8b53df07822deff
+      internalID: 659529316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24701846ed36a3c4087eb7b28ce99d0e
+      internalID: -1446829204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_73
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 305
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46482955d144b0748bded13d655e1df5
+      internalID: 1671942463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa87ac82d733fef428cbae7ff32fe839
+      internalID: 1382927883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d682461bd6aaa0c4588a635a54755478
+      internalID: 1016061336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5de6a68434c8da4f8d67c5efaaa027a
+      internalID: 1429645323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68633f134ca965c428ac7aff2b6e59fb
+      internalID: -698788174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_78
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8dc970d45e91b49a441559d5d761d1
+      internalID: 1801806520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefe23276204d3c48adce30fccf3861b
+      internalID: 1176068192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_80
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d063b7ffcc5e340b5bac5a41cb6349
+      internalID: -1051798748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b82fc23dc590c4aaaaa4d26b530256
+      internalID: 1819438792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c95f828d649444973a5da10c3a30b
+      internalID: -417910399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d45c8ffc6a1ad438a9660eff655a33
+      internalID: -1166672733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_84
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3edb84c532b0e4bb7f583a4015d27a
+      internalID: -1921269000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_85
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ece76a2a4978b4fa54e9b011374ae0
+      internalID: 722882378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_86
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca49f7ac094a6d14797728bf26ddfac3
+      internalID: -205079731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 289
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad48e2404e8954fa980f9b1567945b
+      internalID: -1902405378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157248cd0627c974a90afbe60311501c
+      internalID: -566541993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a23fc57c5c6e42b53dcaf0502882a
+      internalID: 459646276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32598675a0b465d4099ec8455016147f
+      internalID: -1033349856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cedcfd5bda3dcf43b54b3612da5ff4a
+      internalID: 841449646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d041b5ba99cc0f43ae76193f0c82a43
+      internalID: -1100435282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df564d9d77c660840ba511651f6ab4f7
+      internalID: 586737759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a65c6c1540321469e192fb53ee6236
+      internalID: -1912976002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a112ce49376b93429b3194b71c67abd
+      internalID: -1180545419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152d40325b1daf44cb51916e474a7fd8
+      internalID: 1215072336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_97
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209ddf86297817346b2c0fb032e08d45
+      internalID: 846590693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_98
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373f2a258b59b8f4eba9eea4c4dbff28
+      internalID: 464788917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_99
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 273
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e09a0726e9904b9872a1ce8dd449e
+      internalID: 395539555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_100
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4491447e06ea40946a79fc16a18611e4
+      internalID: -1682306272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_101
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6fa5ea58f0016498484862f6fbd7f9
+      internalID: 1009379801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0231784a153149b27327aa4902ad0
+      internalID: 1807020676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ec6f13d5fa4194690b285849f7d883
+      internalID: 1402762458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96606122a3428fc448a13eda6263d4a6
+      internalID: -1301852579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4200cbf8fa924449a9320a91d89915
+      internalID: 864422569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_106
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78a2df6635da34080a45a11c1839ae
+      internalID: 1686850775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_107
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0219dc4f804fd45b7445ddb233248e
+      internalID: 1189069513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1bc0d69e7edbc45bf7c916bd3c58be
+      internalID: 1370513465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_109
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db9df885dbe2b94aa33a0372a54d9c1
+      internalID: 848512425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_110
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4038a0dd17a3449bf8be910d9f6e5
+      internalID: -187934821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85ea333773d77445a5eb42c33bc6cb4
+      internalID: 999505787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_112
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e37658ae845564e90b316da202c941
+      internalID: 1273353410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_113
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 257
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40384d09bf1cccb4d9522194cd9bf54a
+      internalID: 1606784218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391039e39791dcc419712bcd135f5b7a
+      internalID: 356943306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bca9dc467b9ea419c1e6639b5a0de4
+      internalID: -1517916633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8268d8ebf7e00b4cb19a89bdb05dce0
+      internalID: -1602624916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_117
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41817b6756127d478765a8bcd924704
+      internalID: 932687426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414be61bfbda2d642b3a94ed8660cd7b
+      internalID: 1761475841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_119
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b434091c00881e046ac6072b97711a52
+      internalID: 717481240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e475acfb5bb943961a2d5c76a68a0
+      internalID: 1245210560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_121
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc9ef56972490c41aca42ec3187a18d
+      internalID: 1572786060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06db5674fdf6454c97f3636294fd491
+      internalID: 1052261363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_123
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df41b9694e0164787e7f30695c9fc2
+      internalID: -711515710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72410a045c189b04aaadd78509e9761b
+      internalID: 1929820428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_125
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f818038fb4640614fba3c4edaf4360bd
+      internalID: -534995439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d042bb4f751310b4d989185ef8dff401
+      internalID: 1349707952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a025ab34d9d4c7409a12c06739dae47
+      internalID: -1692352179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b668b140832bbb645b9b0d80770e843c
+      internalID: -1461747919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865b3daf02ad41a4daab592a8db81fff
+      internalID: 571208185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_130
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1622c76b454d10346960573e18b3a5b7
+      internalID: -2035105450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2bfca939856534b8592059b37d24ad
+      internalID: -2093993414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e381d33a4aaa2142896ba93fb7add8b
+      internalID: -2120201909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_133
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61229792d953b47b6e9ddffca2a84f
+      internalID: 425128005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_134
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b75e3ea9eb162744b25949abbc9f57d
+      internalID: 1565519750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a062a5bfb2b112b4e8edf991cf740a52
+      internalID: -431876701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_136
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98830498bf384e64aa33ca318606b1a2
+      internalID: 1752001924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce1423244d2c04c814b1bd64fcba02
+      internalID: -933103073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd6f4343ce0cdb49a43cc0eb88b5b85
+      internalID: 499409830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_139
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded64d3259111c449a6cf89689d8fc6
+      internalID: 1952662338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_140
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4383dab5d16fb478a0c5098b612be7
+      internalID: -116089154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_141
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 225
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda1c4784c32a6545a49ddcc7434bda2
+      internalID: 1002516302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_142
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6beffa5f4b152e4eb4e1609bfc18cb7
+      internalID: -9287285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_143
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2427459d0b86f4cb22a9bee78be4fa
+      internalID: 49874756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_144
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c081800006603494db2e7f3008a0e42b
+      internalID: -1571347011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_145
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa8ec47d8cc1214b98ed70f00e7a691
+      internalID: 715319075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_146
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081c95a10caff24468d7e0240b8f6f64
+      internalID: 1525238974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_147
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44652ca2f987456448dd7d7abcd43732
+      internalID: -1334211676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a79034b4397c38458225b7998737ee3
+      internalID: -772229043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb1aa141de01045a88714685eda98d
+      internalID: -1384803907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948118e49f6322c41a3892da3a039823
+      internalID: -721136390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2f804dcd543394f803ddb901c90b6d
+      internalID: 1396940619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0f879d7369a24ca10ef14f254ec53
+      internalID: 1681055739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_153
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db2e71acbc8ba64b8a7b4124225d2dc
+      internalID: -1958638902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_154
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b02052a237e77f48a811d02b91cf327
+      internalID: 1986971199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_155
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 209
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5910d2516ace5bc43b9e2521340ae697
+      internalID: -852226981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4495e80f9b6eb48aa673b5cb79f788
+      internalID: 1882455326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_157
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875ec5e9e9667f0409d28a900f114709
+      internalID: -273218762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_158
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95841ef86caff34d83291622a292c4c
+      internalID: -69210499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_159
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9997521fd1eefb64aac8aef93bf3742a
+      internalID: -165772775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983362f3fc7b00f4a8ec7c0bb90f0424
+      internalID: -1125684733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_161
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6761c3b4a5a7e4596e5bd890b1ef3e
+      internalID: -1227456200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af7a45cce0cd1348a453455f9199644
+      internalID: 1793603169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_163
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef2e185b01fe634e9e2bd776f87424c
+      internalID: 525615877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_164
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8817aa4e2bcafbc4b869d4978490f863
+      internalID: -697298035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_165
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11507abf4b110845ad7cb5ef10fe212
+      internalID: -1998332315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_166
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be948550c5782441a61a0c1b35a454b
+      internalID: 1456624109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_167
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 193
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad8848f3d9fb3846976171a4caa6f25
+      internalID: -2091092473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9436349f78a41f34ea9768e43d6eee3d
+      internalID: 1116364679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_169
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de70e6312f35cda46987ad81560b32cf
+      internalID: -699150608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_170
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ae9ad3da5a6a42bae4843633cac29
+      internalID: 1511171451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6372dde94a974bb40b78bc890f222283
+      internalID: 652107914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_172
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1198fd821ecf046469a82155defdefa4
+      internalID: -507607105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3c014b54150e04487ca6eadd1f005f
+      internalID: -1911541182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_174
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1421ad8bb5a98294db4578feba536709
+      internalID: -1876493332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_175
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b478373326fbf1438ede9547a82f252
+      internalID: -1647237400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_176
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed26dff4e3d4348a23399d8ecfaa79
+      internalID: 1336819658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_177
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4816c8e5e3d5c8f41b4811127db34281
+      internalID: -757428160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_178
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145468a02edea554e979a9cde88cb12b
+      internalID: -573017001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_179
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a179ac2b939865f4e943f4662eee761e
+      internalID: -1946339105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57900ae4ddf634743bdc6b70e55de6fa
+      internalID: -1669631971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_181
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33754c94d3e8e544adc3ed2b6c9b6b8
+      internalID: -641539415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_182
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effd6f41581e9f446a95676fe4fbe89e
+      internalID: -1131602589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_183
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 177
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de381e264287d04fb8bbf9627d32e1a
+      internalID: -2019144310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c124afdeea16764dbbf3fc2cc2235b6
+      internalID: -1477413259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_185
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef3422a0e7766f46844bb95d3b52df5
+      internalID: -1787608435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_186
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8805889befb59b147b87529bdd008ef3
+      internalID: 905378248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_187
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775f83a7fea6cdc4789344df54a0ad3f
+      internalID: 1741252786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_188
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37222a7448b314e49a41c0d13ec6f3f0
+      internalID: 1893371877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_189
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5e4ae70b076c54cbcc726c38c105a8
+      internalID: -1625819254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_190
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafbf7843c5d98543ad21e3a303ede50
+      internalID: 1377655433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_191
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e390216493db24f9ca8714b4617fa4
+      internalID: -766094085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_192
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239d88de04bd5445ad1f23807f19784
+      internalID: -1255542186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_193
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfa707f8975955499cbc157e9db7f8c
+      internalID: 1343626299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_194
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac5622f3e827a54787f81abf301c837
+      internalID: -1640344713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_195
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82105f01226a7604da775a7225a93ff8
+      internalID: -1031672687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_196
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28684f5ed65e32e49ab36935ef3b3ddf
+      internalID: 1230206660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_197
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8b31c399462ec4380e7fd3a0fe23e1
+      internalID: 70677327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_198
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550f56fbed5e7b542bfdda4a058be87e
+      internalID: 1551740909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_199
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 161
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c714152e9c8e841af567212144e180
+      internalID: -820307994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50779e8213a71649b9c702412ba3ec5
+      internalID: -2057402300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73089e60f0b71a040964a6775b8b78be
+      internalID: 169393697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_202
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b015c91619e866845aaf6528d197b503
+      internalID: 1185900250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200cd01a9628beb45a77b7dc7a66eba3
+      internalID: 1807006189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0740be5203a58343a8c58c06105e3cf
+      internalID: 989761357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_205
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbc0813f7ea5b74a9182885dae78151
+      internalID: 928965882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863c4b6ec27892c4bbf02108e2da9e7e
+      internalID: -1536097971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbfe4ed72e1bb0498f25e87f7bd24ce
+      internalID: -1142566749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c7260cf25114a4890b8ee2225c84a5
+      internalID: 301632319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_209
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9747e51da312443ac13561e32e242b
+      internalID: 168975368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37217e564a979ba48a7d40245852c557
+      internalID: 2105778038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_211
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c1890c2b9aa184bacecaf4a882017f
+      internalID: -1576208342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e576f3c61f0f84439aba2b2bbb21d90
+      internalID: 201161421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_213
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1841245de3456418a0492a91f15d9c
+      internalID: -1759246696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_214
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ad31c3670daee409110ef898865fea
+      internalID: -1414202575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_215
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab132de2e8df6c47aea2e2bfbd1bff9
+      internalID: -1108602339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_216
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c16d2e5ebd87ca4396a4c075a3dc475
+      internalID: -347447518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_217
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6858a80b103704ba8268b627ead4be
+      internalID: 451339593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_218
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b552d810854de49a3c2fc26762a6c1
+      internalID: -1620495692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_219
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7134ceeb04623a41ba4abcffd1988f3
+      internalID: 849392384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_220
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89452c5b7e45e5e489163081b827208b
+      internalID: -1108139196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_221
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94e9c3079a16dd46a5b72e2ca892c99
+      internalID: 590072218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_222
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515000e2e6827d24faed953b3176bd98
+      internalID: -845333441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_223
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8ce871633ab69428c2302cfbaa6e16
+      internalID: 1350978497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_224
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb104cee2057840a4279c2870f07f9
+      internalID: 104161685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_225
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acc4af7496617b47a99088a0393a8ad
+      internalID: -718824937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_226
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1add8ea7f791c0c4dac3fe4a9dbba362
+      internalID: 1379862786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_227
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fa3b0c4bc6f0944b58d1960f5ea96d
+      internalID: -1000674072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_228
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b39514c9af7e54a844eaadee36f7f5
+      internalID: -198690929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_229
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a8d944805e004dbf46f6d9304ce58
+      internalID: 433217867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_230
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b4b3a1860f2524fb77a4a8eaaa3c5e
+      internalID: 288771509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_231
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f452b706fa0da140a75d68f567fab31
+      internalID: 1769283879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a56f2bb751db7d45a004806a3d73840
+      internalID: 1067648971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_233
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac356eaa6b875e4c8b41fab9530dac2
+      internalID: 640303475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_234
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2373de8f1d508af43a3dde499eeaac25
+      internalID: 1385486949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_235
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8298f5ec53b39c47a7106920bdc86d4
+      internalID: -604633551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_236
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774501afbabeeee46ab25e5967acfac9
+      internalID: -1376854472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_237
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b36b70dfd516f40aef357ef7e59e34
+      internalID: 403844342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_238
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a0dfce05189fd4fafbe40a08a246ec
+      internalID: 1047559656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_239
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf36390ae9c6a34882c85da0f106186
+      internalID: -1908287918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_240
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5d974f6b9d32a4e8f6f66e1b755383
+      internalID: 1347267835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_241
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d43325f62177d46aef12a6fa8ee8e1
+      internalID: -220953171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_242
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3959132ff9d2f374bbbadcacad20bbd0
+      internalID: 1406018317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_243
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a74c83c6c38f42b23bccd37e53c33
+      internalID: 736930516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_244
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c925f7f8a6fcc644f99ac8f453cad64c
+      internalID: -662191192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_245
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ebb6329e2d98747bbc00bc2fe67d56
+      internalID: -1245572949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_246
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b013465b86899bd4ca67fe310a3454a9
+      internalID: 734277899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_247
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bf2cf3d4c56d0459b5e58e930294ed
+      internalID: -2137765778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_248
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688eece841393cd44abd6f36034fd9ba
+      internalID: 714254094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_249
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6835496d6b99287409b7334efd772f63
+      internalID: -1132370121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_250
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865a88fc7d902004297ab0169304081c
+      internalID: -1691223116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_251
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0dd7d901cb6bd4da89dbdb13c127c0
+      internalID: -1569440310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_252
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1a00e6342913b4e8186fd623a3aa54
+      internalID: 725816987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_253
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f9c5b21fdfca8459b4e32b0bbb736f
+      internalID: -442664467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_254
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b43ea712ccf63e4294e89cfb9ed71e5
+      internalID: 1302666077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_255
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711593b88713ef44aa993b2cf8c6972c
+      internalID: -1199767306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_256
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ed60698391e774da403b323cf03c95
+      internalID: 1904548959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_257
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3aa993fefb2b2499e9487b426b5a39
+      internalID: 1698806505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_258
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bad891289dfc34a93aa513f51d2ebb
+      internalID: -1736965239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_259
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d26e5dfb501a954c816d6ea30d32225
+      internalID: 1493628879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_260
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e69f3987d7280408767ecafc68f260
+      internalID: 541023013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_261
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302102aca1723b4995e4c096039def8
+      internalID: -1678948125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_262
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e569dbf0b5f4fee4abe3da73f3616d65
+      internalID: 366059864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_263
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0561a42195490c4b939d8f980c12019
+      internalID: 1200253173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_264
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3ff2188c40b28478cf4b775d08f8c8
+      internalID: -750600248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_265
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 505af71b524f8174893206b3a82ccd84
+      internalID: 534506006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eced624f5107a345bde265cf562db11
+      internalID: 1540101393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_267
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3594f9341ffa441b049a23c96812c5
+      internalID: -2040726618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_268
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa21aeeb71a3846b706b0406e3a616
+      internalID: 26822517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_269
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95707a89390e394b95d3c287cdaec5c
+      internalID: 1582601560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_270
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef67f6d70f96fc54ea4800d44bb5068f
+      internalID: 133547844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_271
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45a7bed666e3854d857c4b9bc55531f
+      internalID: -2002933129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_272
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5114862b17e3b45bd4f5b3e2137b28
+      internalID: 1690192247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_273
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338c240833f59064f9b655e978c0133a
+      internalID: 592557256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_274
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55baa8c8c238036438d5a02be8e342e5
+      internalID: -2072349540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_275
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b9d34afd73aac42b132a0a04ab3696
+      internalID: 733879566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_276
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20203983834179646ba893fdaa5fc4e2
+      internalID: 790506550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_277
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc699096ded34a48a3c9607a1cd2a54
+      internalID: -342202194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_278
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99b23f4a5478b941a77532c2f7c18b1
+      internalID: -948411812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_279
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0e8d1167a42d34cad74b58f3417581
+      internalID: -896179752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_280
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3208081cc53620408fd79e1b7c4cb6a
+      internalID: -1045291220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_281
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958141db50faf1a498479f5433ed6a64
+      internalID: 1382970182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_282
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cf7be02c34ee849b47724efdcff9ba
+      internalID: 1517929007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_283
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6260141a3b37ba439de972e247012f3
+      internalID: 1011951405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_284
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230d7edb10fd1fa4d946e4fc5eb38ae3
+      internalID: 2083264271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_285
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e7ef4059ebd774cbecc74100f48b2d
+      internalID: -1541444515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_286
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f01d16a19501924b992b982cd2d29ae
+      internalID: 1879949060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_287
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67026c489d264d74abec1c3440072243
+      internalID: -1694764727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_288
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff7b4e0cdb86994d98d0bf9295abdfc
+      internalID: -359717772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_289
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac4f0ef13304542b174fcde5d0cf8f
+      internalID: -347488221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_290
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f19b8c290f7d244a7d317a96a00730
+      internalID: -447309662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_291
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6ba3ff24564df40a1e1d639f0ef925
+      internalID: -1600151601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_292
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78ee9eb1a2b2e44ca4f37f93cd0a071
+      internalID: -367966302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_293
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca30be02bba3cf44a4032bdfa4151b6
+      internalID: 190763562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_294
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82937460fa1035f44aa8a62b5a5d608f
+      internalID: -2053241610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_295
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73aec59f583ce942959a119e3e66895
+      internalID: -39646604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_296
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423a091e2bf2b5498c51113ff6e96ae
+      internalID: -284453313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_297
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aa374bd871bf14a96c963c177dd711
+      internalID: 1994269894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_298
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ae501f2d2e0140b1c50d057d9a504
+      internalID: -967244179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_299
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a0dc87a1912bd4382f058b82fc9a46
+      internalID: 384404070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_300
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9414b93799fc0cd48854c7f12984cda0
+      internalID: -528768458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_301
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d64e1a5f1988f441a0f6bd7a4dfe30d
+      internalID: -1456979092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_302
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b271c00f018b64ab6dcb3aa46cf1b3
+      internalID: 1295607686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_303
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d409cda6d5980cd4185dbb2ee226b65b
+      internalID: 1523601999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_304
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4b914759a2d3142b8a1c036e821182
+      internalID: -1794919046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_305
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ef75d190310324ba6b9a2506ff1a96
+      internalID: 139839190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_306
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d3bdd1183811e498583ef703611146
+      internalID: 770173423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_307
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d16e6667ad1d41927b28812c75da8
+      internalID: 728006218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_308
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac800988e4cbe4c469be5bd76d85d7fe
+      internalID: -674941100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_309
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a17d113f24494448bbc8f6743412f21
+      internalID: 653331467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_310
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f0f5e0fb96add42a02f5c733de467f
+      internalID: -598054373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_311
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d595c3e795f16b846a0e48585c0efe4b
+      internalID: 1492027979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_312
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c087fac7ca8a243831150bf6763315
+      internalID: 1435745715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_313
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f80113b3801b43a7fb3ab11b1037c
+      internalID: 331548498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_314
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34606b5c59eb9564ba22b0369760781b
+      internalID: 392628500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_315
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa7415bf35e15f42bb7be42ab69f697
+      internalID: -740135360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_316
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7640dadd759ac2f4fb300ea74cdd492a
+      internalID: 206016035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_317
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c698e8a79af7e8d489e1e12df016f126
+      internalID: -2032378950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_318
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557f5b3d5f303334a88522af2dbd32f7
+      internalID: -238603756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_319
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a191cdcaaec32c4d91f0d3c593dd014
+      internalID: 1120009770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_320
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a017c0130d4fe4a9907f08c74aeb88
+      internalID: 1829508062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_321
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697bcde82b5dbc74a8de8913d0de99d0
+      internalID: -844545997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_322
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2986afb7dfbb5e54e87d994851dee6a4
+      internalID: 534389492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_323
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f62d062442f0c4cb0c1b3b4d752308
+      internalID: 1513360826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_324
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba32c9879f555244b76433b1fd62c9b
+      internalID: -366838127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_325
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d99da09295337f4b83e2305c61e8d93
+      internalID: 149983549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_326
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f4cdc62589ffb42b278ba2c943f41c
+      internalID: 1733536532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_327
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fae8a12499e6f41a8f5719305e1edf
+      internalID: 1782808571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_328
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d380db09f60b104cbc6d32f859111ba
+      internalID: -961833671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_329
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3055e7b6c8e8ff84e8dae643bd71325f
+      internalID: 1738447094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_330
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19189544c0aac104c91ad1b6642bacd8
+      internalID: 1655512139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_331
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381de129dcb294d4bbe1bebc8c777eb3
+      internalID: 2126379725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_332
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8f1322e373f104cb89ab9b9b6abfaa
+      internalID: -2050485956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_333
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b54a278f8fd228479565b21300363fb
+      internalID: -1667868069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_334
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b2c8dbf2fbf34d86e11f509d8ae88
+      internalID: 1199990499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ruang tamu (1)(1)(1)(1)(1)(1)_335
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9b24ce43c6de347958e0a0ce06e56c
+      internalID: 535342294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ruang tamu (1)(1)(1)(1)(1)(1)_0: 1178212309
+      ruang tamu (1)(1)(1)(1)(1)(1)_1: 1469823798
+      ruang tamu (1)(1)(1)(1)(1)(1)_10: 2033739388
+      ruang tamu (1)(1)(1)(1)(1)(1)_100: -1682306272
+      ruang tamu (1)(1)(1)(1)(1)(1)_101: 1009379801
+      ruang tamu (1)(1)(1)(1)(1)(1)_102: 1807020676
+      ruang tamu (1)(1)(1)(1)(1)(1)_103: 1402762458
+      ruang tamu (1)(1)(1)(1)(1)(1)_104: -1301852579
+      ruang tamu (1)(1)(1)(1)(1)(1)_105: 864422569
+      ruang tamu (1)(1)(1)(1)(1)(1)_106: 1686850775
+      ruang tamu (1)(1)(1)(1)(1)(1)_107: 1189069513
+      ruang tamu (1)(1)(1)(1)(1)(1)_108: 1370513465
+      ruang tamu (1)(1)(1)(1)(1)(1)_109: 848512425
+      ruang tamu (1)(1)(1)(1)(1)(1)_11: 156449049
+      ruang tamu (1)(1)(1)(1)(1)(1)_110: -187934821
+      ruang tamu (1)(1)(1)(1)(1)(1)_111: 999505787
+      ruang tamu (1)(1)(1)(1)(1)(1)_112: 1273353410
+      ruang tamu (1)(1)(1)(1)(1)(1)_113: 1606784218
+      ruang tamu (1)(1)(1)(1)(1)(1)_114: 356943306
+      ruang tamu (1)(1)(1)(1)(1)(1)_115: -1517916633
+      ruang tamu (1)(1)(1)(1)(1)(1)_116: -1602624916
+      ruang tamu (1)(1)(1)(1)(1)(1)_117: 932687426
+      ruang tamu (1)(1)(1)(1)(1)(1)_118: 1761475841
+      ruang tamu (1)(1)(1)(1)(1)(1)_119: 717481240
+      ruang tamu (1)(1)(1)(1)(1)(1)_12: -856662056
+      ruang tamu (1)(1)(1)(1)(1)(1)_120: 1245210560
+      ruang tamu (1)(1)(1)(1)(1)(1)_121: 1572786060
+      ruang tamu (1)(1)(1)(1)(1)(1)_122: 1052261363
+      ruang tamu (1)(1)(1)(1)(1)(1)_123: -711515710
+      ruang tamu (1)(1)(1)(1)(1)(1)_124: 1929820428
+      ruang tamu (1)(1)(1)(1)(1)(1)_125: -534995439
+      ruang tamu (1)(1)(1)(1)(1)(1)_126: 1349707952
+      ruang tamu (1)(1)(1)(1)(1)(1)_127: -1692352179
+      ruang tamu (1)(1)(1)(1)(1)(1)_128: -1461747919
+      ruang tamu (1)(1)(1)(1)(1)(1)_129: 571208185
+      ruang tamu (1)(1)(1)(1)(1)(1)_13: -1195803957
+      ruang tamu (1)(1)(1)(1)(1)(1)_130: -2035105450
+      ruang tamu (1)(1)(1)(1)(1)(1)_131: -2093993414
+      ruang tamu (1)(1)(1)(1)(1)(1)_132: -2120201909
+      ruang tamu (1)(1)(1)(1)(1)(1)_133: 425128005
+      ruang tamu (1)(1)(1)(1)(1)(1)_134: 1565519750
+      ruang tamu (1)(1)(1)(1)(1)(1)_135: -431876701
+      ruang tamu (1)(1)(1)(1)(1)(1)_136: 1752001924
+      ruang tamu (1)(1)(1)(1)(1)(1)_137: -933103073
+      ruang tamu (1)(1)(1)(1)(1)(1)_138: 499409830
+      ruang tamu (1)(1)(1)(1)(1)(1)_139: 1952662338
+      ruang tamu (1)(1)(1)(1)(1)(1)_14: -1186150546
+      ruang tamu (1)(1)(1)(1)(1)(1)_140: -116089154
+      ruang tamu (1)(1)(1)(1)(1)(1)_141: 1002516302
+      ruang tamu (1)(1)(1)(1)(1)(1)_142: -9287285
+      ruang tamu (1)(1)(1)(1)(1)(1)_143: 49874756
+      ruang tamu (1)(1)(1)(1)(1)(1)_144: -1571347011
+      ruang tamu (1)(1)(1)(1)(1)(1)_145: 715319075
+      ruang tamu (1)(1)(1)(1)(1)(1)_146: 1525238974
+      ruang tamu (1)(1)(1)(1)(1)(1)_147: -1334211676
+      ruang tamu (1)(1)(1)(1)(1)(1)_148: -772229043
+      ruang tamu (1)(1)(1)(1)(1)(1)_149: -1384803907
+      ruang tamu (1)(1)(1)(1)(1)(1)_15: -1826978244
+      ruang tamu (1)(1)(1)(1)(1)(1)_150: -721136390
+      ruang tamu (1)(1)(1)(1)(1)(1)_151: 1396940619
+      ruang tamu (1)(1)(1)(1)(1)(1)_152: 1681055739
+      ruang tamu (1)(1)(1)(1)(1)(1)_153: -1958638902
+      ruang tamu (1)(1)(1)(1)(1)(1)_154: 1986971199
+      ruang tamu (1)(1)(1)(1)(1)(1)_155: -852226981
+      ruang tamu (1)(1)(1)(1)(1)(1)_156: 1882455326
+      ruang tamu (1)(1)(1)(1)(1)(1)_157: -273218762
+      ruang tamu (1)(1)(1)(1)(1)(1)_158: -69210499
+      ruang tamu (1)(1)(1)(1)(1)(1)_159: -165772775
+      ruang tamu (1)(1)(1)(1)(1)(1)_16: -1259687647
+      ruang tamu (1)(1)(1)(1)(1)(1)_160: -1125684733
+      ruang tamu (1)(1)(1)(1)(1)(1)_161: -1227456200
+      ruang tamu (1)(1)(1)(1)(1)(1)_162: 1793603169
+      ruang tamu (1)(1)(1)(1)(1)(1)_163: 525615877
+      ruang tamu (1)(1)(1)(1)(1)(1)_164: -697298035
+      ruang tamu (1)(1)(1)(1)(1)(1)_165: -1998332315
+      ruang tamu (1)(1)(1)(1)(1)(1)_166: 1456624109
+      ruang tamu (1)(1)(1)(1)(1)(1)_167: -2091092473
+      ruang tamu (1)(1)(1)(1)(1)(1)_168: 1116364679
+      ruang tamu (1)(1)(1)(1)(1)(1)_169: -699150608
+      ruang tamu (1)(1)(1)(1)(1)(1)_17: -1101084378
+      ruang tamu (1)(1)(1)(1)(1)(1)_170: 1511171451
+      ruang tamu (1)(1)(1)(1)(1)(1)_171: 652107914
+      ruang tamu (1)(1)(1)(1)(1)(1)_172: -507607105
+      ruang tamu (1)(1)(1)(1)(1)(1)_173: -1911541182
+      ruang tamu (1)(1)(1)(1)(1)(1)_174: -1876493332
+      ruang tamu (1)(1)(1)(1)(1)(1)_175: -1647237400
+      ruang tamu (1)(1)(1)(1)(1)(1)_176: 1336819658
+      ruang tamu (1)(1)(1)(1)(1)(1)_177: -757428160
+      ruang tamu (1)(1)(1)(1)(1)(1)_178: -573017001
+      ruang tamu (1)(1)(1)(1)(1)(1)_179: -1946339105
+      ruang tamu (1)(1)(1)(1)(1)(1)_18: 1853920226
+      ruang tamu (1)(1)(1)(1)(1)(1)_180: -1669631971
+      ruang tamu (1)(1)(1)(1)(1)(1)_181: -641539415
+      ruang tamu (1)(1)(1)(1)(1)(1)_182: -1131602589
+      ruang tamu (1)(1)(1)(1)(1)(1)_183: -2019144310
+      ruang tamu (1)(1)(1)(1)(1)(1)_184: -1477413259
+      ruang tamu (1)(1)(1)(1)(1)(1)_185: -1787608435
+      ruang tamu (1)(1)(1)(1)(1)(1)_186: 905378248
+      ruang tamu (1)(1)(1)(1)(1)(1)_187: 1741252786
+      ruang tamu (1)(1)(1)(1)(1)(1)_188: 1893371877
+      ruang tamu (1)(1)(1)(1)(1)(1)_189: -1625819254
+      ruang tamu (1)(1)(1)(1)(1)(1)_19: 373727057
+      ruang tamu (1)(1)(1)(1)(1)(1)_190: 1377655433
+      ruang tamu (1)(1)(1)(1)(1)(1)_191: -766094085
+      ruang tamu (1)(1)(1)(1)(1)(1)_192: -1255542186
+      ruang tamu (1)(1)(1)(1)(1)(1)_193: 1343626299
+      ruang tamu (1)(1)(1)(1)(1)(1)_194: -1640344713
+      ruang tamu (1)(1)(1)(1)(1)(1)_195: -1031672687
+      ruang tamu (1)(1)(1)(1)(1)(1)_196: 1230206660
+      ruang tamu (1)(1)(1)(1)(1)(1)_197: 70677327
+      ruang tamu (1)(1)(1)(1)(1)(1)_198: 1551740909
+      ruang tamu (1)(1)(1)(1)(1)(1)_199: -820307994
+      ruang tamu (1)(1)(1)(1)(1)(1)_2: -628835047
+      ruang tamu (1)(1)(1)(1)(1)(1)_20: 602872044
+      ruang tamu (1)(1)(1)(1)(1)(1)_200: -2057402300
+      ruang tamu (1)(1)(1)(1)(1)(1)_201: 169393697
+      ruang tamu (1)(1)(1)(1)(1)(1)_202: 1185900250
+      ruang tamu (1)(1)(1)(1)(1)(1)_203: 1807006189
+      ruang tamu (1)(1)(1)(1)(1)(1)_204: 989761357
+      ruang tamu (1)(1)(1)(1)(1)(1)_205: 928965882
+      ruang tamu (1)(1)(1)(1)(1)(1)_206: -1536097971
+      ruang tamu (1)(1)(1)(1)(1)(1)_207: -1142566749
+      ruang tamu (1)(1)(1)(1)(1)(1)_208: 301632319
+      ruang tamu (1)(1)(1)(1)(1)(1)_209: 168975368
+      ruang tamu (1)(1)(1)(1)(1)(1)_21: 1996200394
+      ruang tamu (1)(1)(1)(1)(1)(1)_210: 2105778038
+      ruang tamu (1)(1)(1)(1)(1)(1)_211: -1576208342
+      ruang tamu (1)(1)(1)(1)(1)(1)_212: 201161421
+      ruang tamu (1)(1)(1)(1)(1)(1)_213: -1759246696
+      ruang tamu (1)(1)(1)(1)(1)(1)_214: -1414202575
+      ruang tamu (1)(1)(1)(1)(1)(1)_215: -1108602339
+      ruang tamu (1)(1)(1)(1)(1)(1)_216: -347447518
+      ruang tamu (1)(1)(1)(1)(1)(1)_217: 451339593
+      ruang tamu (1)(1)(1)(1)(1)(1)_218: -1620495692
+      ruang tamu (1)(1)(1)(1)(1)(1)_219: 849392384
+      ruang tamu (1)(1)(1)(1)(1)(1)_22: 1494066683
+      ruang tamu (1)(1)(1)(1)(1)(1)_220: -1108139196
+      ruang tamu (1)(1)(1)(1)(1)(1)_221: 590072218
+      ruang tamu (1)(1)(1)(1)(1)(1)_222: -845333441
+      ruang tamu (1)(1)(1)(1)(1)(1)_223: 1350978497
+      ruang tamu (1)(1)(1)(1)(1)(1)_224: 104161685
+      ruang tamu (1)(1)(1)(1)(1)(1)_225: -718824937
+      ruang tamu (1)(1)(1)(1)(1)(1)_226: 1379862786
+      ruang tamu (1)(1)(1)(1)(1)(1)_227: -1000674072
+      ruang tamu (1)(1)(1)(1)(1)(1)_228: -198690929
+      ruang tamu (1)(1)(1)(1)(1)(1)_229: 433217867
+      ruang tamu (1)(1)(1)(1)(1)(1)_23: 1397296135
+      ruang tamu (1)(1)(1)(1)(1)(1)_230: 288771509
+      ruang tamu (1)(1)(1)(1)(1)(1)_231: 1769283879
+      ruang tamu (1)(1)(1)(1)(1)(1)_232: 1067648971
+      ruang tamu (1)(1)(1)(1)(1)(1)_233: 640303475
+      ruang tamu (1)(1)(1)(1)(1)(1)_234: 1385486949
+      ruang tamu (1)(1)(1)(1)(1)(1)_235: -604633551
+      ruang tamu (1)(1)(1)(1)(1)(1)_236: -1376854472
+      ruang tamu (1)(1)(1)(1)(1)(1)_237: 403844342
+      ruang tamu (1)(1)(1)(1)(1)(1)_238: 1047559656
+      ruang tamu (1)(1)(1)(1)(1)(1)_239: -1908287918
+      ruang tamu (1)(1)(1)(1)(1)(1)_24: -6262254
+      ruang tamu (1)(1)(1)(1)(1)(1)_240: 1347267835
+      ruang tamu (1)(1)(1)(1)(1)(1)_241: -220953171
+      ruang tamu (1)(1)(1)(1)(1)(1)_242: 1406018317
+      ruang tamu (1)(1)(1)(1)(1)(1)_243: 736930516
+      ruang tamu (1)(1)(1)(1)(1)(1)_244: -662191192
+      ruang tamu (1)(1)(1)(1)(1)(1)_245: -1245572949
+      ruang tamu (1)(1)(1)(1)(1)(1)_246: 734277899
+      ruang tamu (1)(1)(1)(1)(1)(1)_247: -2137765778
+      ruang tamu (1)(1)(1)(1)(1)(1)_248: 714254094
+      ruang tamu (1)(1)(1)(1)(1)(1)_249: -1132370121
+      ruang tamu (1)(1)(1)(1)(1)(1)_25: 1515452335
+      ruang tamu (1)(1)(1)(1)(1)(1)_250: -1691223116
+      ruang tamu (1)(1)(1)(1)(1)(1)_251: -1569440310
+      ruang tamu (1)(1)(1)(1)(1)(1)_252: 725816987
+      ruang tamu (1)(1)(1)(1)(1)(1)_253: -442664467
+      ruang tamu (1)(1)(1)(1)(1)(1)_254: 1302666077
+      ruang tamu (1)(1)(1)(1)(1)(1)_255: -1199767306
+      ruang tamu (1)(1)(1)(1)(1)(1)_256: 1904548959
+      ruang tamu (1)(1)(1)(1)(1)(1)_257: 1698806505
+      ruang tamu (1)(1)(1)(1)(1)(1)_258: -1736965239
+      ruang tamu (1)(1)(1)(1)(1)(1)_259: 1493628879
+      ruang tamu (1)(1)(1)(1)(1)(1)_26: -626917543
+      ruang tamu (1)(1)(1)(1)(1)(1)_260: 541023013
+      ruang tamu (1)(1)(1)(1)(1)(1)_261: -1678948125
+      ruang tamu (1)(1)(1)(1)(1)(1)_262: 366059864
+      ruang tamu (1)(1)(1)(1)(1)(1)_263: 1200253173
+      ruang tamu (1)(1)(1)(1)(1)(1)_264: -750600248
+      ruang tamu (1)(1)(1)(1)(1)(1)_265: 534506006
+      ruang tamu (1)(1)(1)(1)(1)(1)_266: 1540101393
+      ruang tamu (1)(1)(1)(1)(1)(1)_267: -2040726618
+      ruang tamu (1)(1)(1)(1)(1)(1)_268: 26822517
+      ruang tamu (1)(1)(1)(1)(1)(1)_269: 1582601560
+      ruang tamu (1)(1)(1)(1)(1)(1)_27: -1711114345
+      ruang tamu (1)(1)(1)(1)(1)(1)_270: 133547844
+      ruang tamu (1)(1)(1)(1)(1)(1)_271: -2002933129
+      ruang tamu (1)(1)(1)(1)(1)(1)_272: 1690192247
+      ruang tamu (1)(1)(1)(1)(1)(1)_273: 592557256
+      ruang tamu (1)(1)(1)(1)(1)(1)_274: -2072349540
+      ruang tamu (1)(1)(1)(1)(1)(1)_275: 733879566
+      ruang tamu (1)(1)(1)(1)(1)(1)_276: 790506550
+      ruang tamu (1)(1)(1)(1)(1)(1)_277: -342202194
+      ruang tamu (1)(1)(1)(1)(1)(1)_278: -948411812
+      ruang tamu (1)(1)(1)(1)(1)(1)_279: -896179752
+      ruang tamu (1)(1)(1)(1)(1)(1)_28: 2019636487
+      ruang tamu (1)(1)(1)(1)(1)(1)_280: -1045291220
+      ruang tamu (1)(1)(1)(1)(1)(1)_281: 1382970182
+      ruang tamu (1)(1)(1)(1)(1)(1)_282: 1517929007
+      ruang tamu (1)(1)(1)(1)(1)(1)_283: 1011951405
+      ruang tamu (1)(1)(1)(1)(1)(1)_284: 2083264271
+      ruang tamu (1)(1)(1)(1)(1)(1)_285: -1541444515
+      ruang tamu (1)(1)(1)(1)(1)(1)_286: 1879949060
+      ruang tamu (1)(1)(1)(1)(1)(1)_287: -1694764727
+      ruang tamu (1)(1)(1)(1)(1)(1)_288: -359717772
+      ruang tamu (1)(1)(1)(1)(1)(1)_289: -347488221
+      ruang tamu (1)(1)(1)(1)(1)(1)_29: -278939398
+      ruang tamu (1)(1)(1)(1)(1)(1)_290: -447309662
+      ruang tamu (1)(1)(1)(1)(1)(1)_291: -1600151601
+      ruang tamu (1)(1)(1)(1)(1)(1)_292: -367966302
+      ruang tamu (1)(1)(1)(1)(1)(1)_293: 190763562
+      ruang tamu (1)(1)(1)(1)(1)(1)_294: -2053241610
+      ruang tamu (1)(1)(1)(1)(1)(1)_295: -39646604
+      ruang tamu (1)(1)(1)(1)(1)(1)_296: -284453313
+      ruang tamu (1)(1)(1)(1)(1)(1)_297: 1994269894
+      ruang tamu (1)(1)(1)(1)(1)(1)_298: -967244179
+      ruang tamu (1)(1)(1)(1)(1)(1)_299: 384404070
+      ruang tamu (1)(1)(1)(1)(1)(1)_3: 293195757
+      ruang tamu (1)(1)(1)(1)(1)(1)_30: -1463142701
+      ruang tamu (1)(1)(1)(1)(1)(1)_300: -528768458
+      ruang tamu (1)(1)(1)(1)(1)(1)_301: -1456979092
+      ruang tamu (1)(1)(1)(1)(1)(1)_302: 1295607686
+      ruang tamu (1)(1)(1)(1)(1)(1)_303: 1523601999
+      ruang tamu (1)(1)(1)(1)(1)(1)_304: -1794919046
+      ruang tamu (1)(1)(1)(1)(1)(1)_305: 139839190
+      ruang tamu (1)(1)(1)(1)(1)(1)_306: 770173423
+      ruang tamu (1)(1)(1)(1)(1)(1)_307: 728006218
+      ruang tamu (1)(1)(1)(1)(1)(1)_308: -674941100
+      ruang tamu (1)(1)(1)(1)(1)(1)_309: 653331467
+      ruang tamu (1)(1)(1)(1)(1)(1)_31: 719804331
+      ruang tamu (1)(1)(1)(1)(1)(1)_310: -598054373
+      ruang tamu (1)(1)(1)(1)(1)(1)_311: 1492027979
+      ruang tamu (1)(1)(1)(1)(1)(1)_312: 1435745715
+      ruang tamu (1)(1)(1)(1)(1)(1)_313: 331548498
+      ruang tamu (1)(1)(1)(1)(1)(1)_314: 392628500
+      ruang tamu (1)(1)(1)(1)(1)(1)_315: -740135360
+      ruang tamu (1)(1)(1)(1)(1)(1)_316: 206016035
+      ruang tamu (1)(1)(1)(1)(1)(1)_317: -2032378950
+      ruang tamu (1)(1)(1)(1)(1)(1)_318: -238603756
+      ruang tamu (1)(1)(1)(1)(1)(1)_319: 1120009770
+      ruang tamu (1)(1)(1)(1)(1)(1)_32: 676751152
+      ruang tamu (1)(1)(1)(1)(1)(1)_320: 1829508062
+      ruang tamu (1)(1)(1)(1)(1)(1)_321: -844545997
+      ruang tamu (1)(1)(1)(1)(1)(1)_322: 534389492
+      ruang tamu (1)(1)(1)(1)(1)(1)_323: 1513360826
+      ruang tamu (1)(1)(1)(1)(1)(1)_324: -366838127
+      ruang tamu (1)(1)(1)(1)(1)(1)_325: 149983549
+      ruang tamu (1)(1)(1)(1)(1)(1)_326: 1733536532
+      ruang tamu (1)(1)(1)(1)(1)(1)_327: 1782808571
+      ruang tamu (1)(1)(1)(1)(1)(1)_328: -961833671
+      ruang tamu (1)(1)(1)(1)(1)(1)_329: 1738447094
+      ruang tamu (1)(1)(1)(1)(1)(1)_33: -670492541
+      ruang tamu (1)(1)(1)(1)(1)(1)_330: 1655512139
+      ruang tamu (1)(1)(1)(1)(1)(1)_331: 2126379725
+      ruang tamu (1)(1)(1)(1)(1)(1)_332: -2050485956
+      ruang tamu (1)(1)(1)(1)(1)(1)_333: -1667868069
+      ruang tamu (1)(1)(1)(1)(1)(1)_334: 1199990499
+      ruang tamu (1)(1)(1)(1)(1)(1)_335: 535342294
+      ruang tamu (1)(1)(1)(1)(1)(1)_34: 747171098
+      ruang tamu (1)(1)(1)(1)(1)(1)_35: 2119797391
+      ruang tamu (1)(1)(1)(1)(1)(1)_36: 415132256
+      ruang tamu (1)(1)(1)(1)(1)(1)_37: -854369865
+      ruang tamu (1)(1)(1)(1)(1)(1)_38: 1596923085
+      ruang tamu (1)(1)(1)(1)(1)(1)_39: 1047984586
+      ruang tamu (1)(1)(1)(1)(1)(1)_4: -1291517709
+      ruang tamu (1)(1)(1)(1)(1)(1)_40: -2120663764
+      ruang tamu (1)(1)(1)(1)(1)(1)_41: 2026373380
+      ruang tamu (1)(1)(1)(1)(1)(1)_42: -1936566785
+      ruang tamu (1)(1)(1)(1)(1)(1)_43: 358429591
+      ruang tamu (1)(1)(1)(1)(1)(1)_44: 49708155
+      ruang tamu (1)(1)(1)(1)(1)(1)_45: 838057823
+      ruang tamu (1)(1)(1)(1)(1)(1)_46: 843359637
+      ruang tamu (1)(1)(1)(1)(1)(1)_47: 1116662332
+      ruang tamu (1)(1)(1)(1)(1)(1)_48: -499025554
+      ruang tamu (1)(1)(1)(1)(1)(1)_49: 1344988250
+      ruang tamu (1)(1)(1)(1)(1)(1)_5: -1673398270
+      ruang tamu (1)(1)(1)(1)(1)(1)_50: -1806274521
+      ruang tamu (1)(1)(1)(1)(1)(1)_51: -1457635759
+      ruang tamu (1)(1)(1)(1)(1)(1)_52: -945177690
+      ruang tamu (1)(1)(1)(1)(1)(1)_53: 429402822
+      ruang tamu (1)(1)(1)(1)(1)(1)_54: 678485391
+      ruang tamu (1)(1)(1)(1)(1)(1)_55: 772485470
+      ruang tamu (1)(1)(1)(1)(1)(1)_56: 886857277
+      ruang tamu (1)(1)(1)(1)(1)(1)_57: -1903602423
+      ruang tamu (1)(1)(1)(1)(1)(1)_58: 1247157126
+      ruang tamu (1)(1)(1)(1)(1)(1)_59: 1377192722
+      ruang tamu (1)(1)(1)(1)(1)(1)_6: 1780137925
+      ruang tamu (1)(1)(1)(1)(1)(1)_60: -1286022328
+      ruang tamu (1)(1)(1)(1)(1)(1)_61: 664260483
+      ruang tamu (1)(1)(1)(1)(1)(1)_62: 1190169296
+      ruang tamu (1)(1)(1)(1)(1)(1)_63: -2073092555
+      ruang tamu (1)(1)(1)(1)(1)(1)_64: -43897245
+      ruang tamu (1)(1)(1)(1)(1)(1)_65: -321971377
+      ruang tamu (1)(1)(1)(1)(1)(1)_66: 439987176
+      ruang tamu (1)(1)(1)(1)(1)(1)_67: -1081067385
+      ruang tamu (1)(1)(1)(1)(1)(1)_68: -2118345057
+      ruang tamu (1)(1)(1)(1)(1)(1)_69: 1699295813
+      ruang tamu (1)(1)(1)(1)(1)(1)_7: 1876229285
+      ruang tamu (1)(1)(1)(1)(1)(1)_70: 1843030953
+      ruang tamu (1)(1)(1)(1)(1)(1)_71: 659529316
+      ruang tamu (1)(1)(1)(1)(1)(1)_72: -1446829204
+      ruang tamu (1)(1)(1)(1)(1)(1)_73: 1671942463
+      ruang tamu (1)(1)(1)(1)(1)(1)_74: 1382927883
+      ruang tamu (1)(1)(1)(1)(1)(1)_75: 1016061336
+      ruang tamu (1)(1)(1)(1)(1)(1)_76: 1429645323
+      ruang tamu (1)(1)(1)(1)(1)(1)_77: -698788174
+      ruang tamu (1)(1)(1)(1)(1)(1)_78: 1801806520
+      ruang tamu (1)(1)(1)(1)(1)(1)_79: 1176068192
+      ruang tamu (1)(1)(1)(1)(1)(1)_8: -1783045435
+      ruang tamu (1)(1)(1)(1)(1)(1)_80: -1051798748
+      ruang tamu (1)(1)(1)(1)(1)(1)_81: 1819438792
+      ruang tamu (1)(1)(1)(1)(1)(1)_82: -417910399
+      ruang tamu (1)(1)(1)(1)(1)(1)_83: -1166672733
+      ruang tamu (1)(1)(1)(1)(1)(1)_84: -1921269000
+      ruang tamu (1)(1)(1)(1)(1)(1)_85: 722882378
+      ruang tamu (1)(1)(1)(1)(1)(1)_86: -205079731
+      ruang tamu (1)(1)(1)(1)(1)(1)_87: -1902405378
+      ruang tamu (1)(1)(1)(1)(1)(1)_88: -566541993
+      ruang tamu (1)(1)(1)(1)(1)(1)_89: 459646276
+      ruang tamu (1)(1)(1)(1)(1)(1)_9: -932511684
+      ruang tamu (1)(1)(1)(1)(1)(1)_90: -1033349856
+      ruang tamu (1)(1)(1)(1)(1)(1)_91: 841449646
+      ruang tamu (1)(1)(1)(1)(1)(1)_92: -1100435282
+      ruang tamu (1)(1)(1)(1)(1)(1)_93: 586737759
+      ruang tamu (1)(1)(1)(1)(1)(1)_94: -1912976002
+      ruang tamu (1)(1)(1)(1)(1)(1)_95: -1180545419
+      ruang tamu (1)(1)(1)(1)(1)(1)_96: 1215072336
+      ruang tamu (1)(1)(1)(1)(1)(1)_97: 846590693
+      ruang tamu (1)(1)(1)(1)(1)(1)_98: 464788917
+      ruang tamu (1)(1)(1)(1)(1)(1)_99: 395539555
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
