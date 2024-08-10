@@ -12,6 +12,7 @@ public class DamageText : MonoBehaviour
     {
         damageTMP.text = damage.ToString();
     }
+
     public void DestroyText()
     {
         Destroy(gameObject);
